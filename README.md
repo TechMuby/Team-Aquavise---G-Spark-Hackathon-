@@ -1,2 +1,4 @@
 # Team-Aquavise---G-Spark-Hackathon-
-Our Innovative sollution that ensures Digital Inclusion for all Rural and Urban fish farmers
+AquaVise is an AI-driven aquaculture management system designed to help small- and medium-scale fish farmers monitor, control, and sustainably manage their ponds. The system uses in-pond sensors to collect real-time data on water quality parameters such as temperature, pH, and turbidity, which are analyzed by an intelligent platform to provide actionable insights and automated control of water pumps for recycling and wastewater management. AquaVise features a local web-based dashboard and cloud connectivity, enabling farmers to remotely view pond conditions, optimize water usage, reduce fish mortality, and improve productivity. The solution is built for aquafarmers seeking cost-effective, smart, and environmentally responsible tools to increase yields, cut operational losses, and support a sustainable blue economy.
+![Prototype](https://github.com/user-attachments/assets/5ecdf878-2abb-4089-9dc1-c8612280c6a8)
+
